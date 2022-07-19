@@ -71,3 +71,4 @@ Summarize three business recommendations to the CEO for addressing any dispariti
 Add additional drivers in rural areas to bring down the average fare per ride/drivr and increase total revenue for PyBer.
 Add additional drivers in suburban areas to bring down the average fare per ride/drivr and increase total revenue for PyBer.
 In urban areas, the total drivers are more and we can move some of them to rural/suburban there by balancing the revenue from all three city types.
+https://github.com/roboy88/PyBer_Analysis/blob/main/pyber_Analysis%20for%20submission.py
